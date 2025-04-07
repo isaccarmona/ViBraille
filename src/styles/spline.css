@@ -1,0 +1,9 @@
+.spline-container {
+  width: 100%; /* Adjust percentage as needed */
+  max-width: 600px; /* Sets maximum width */
+  height: 400px; /* Adjust height as needed */
+  margin: 0 auto; /* Centers the container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
